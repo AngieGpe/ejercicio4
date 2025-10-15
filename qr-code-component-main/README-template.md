@@ -53,10 +53,7 @@ Ejemplo:
 Menciona aquí los aspectos que podrías mejorar o seguir practicando en futuros proyectos.
 
 **Ejemplo:**
-- Mejorar el manejo del responsive en pantallas pequeñas.  
-- Implementar animaciones o transiciones suaves.  
-- Explorar el uso de variables de Tailwind personalizadas.  
-- Optimizar la estructura del proyecto y el uso de componentes.  
+- pues, se me dificulta mucho adaptar para un movil las paginas que hago 
 
 ---
 
@@ -64,20 +61,18 @@ Menciona aquí los aspectos que podrías mejorar o seguir practicando en futuros
 
 Incluye los enlaces, documentación o tutoriales que te ayudaron a completar este proyecto.
 
-**Ejemplo:**
-- [Documentación de Astro](https://docs.astro.build)  
-- [Guía oficial de Tailwind CSS](https://tailwindcss.com/docs)  
-- [MDN Web Docs - HTML y CSS](https://developer.mozilla.org/es/)  
-- [Guía de diseño responsivo](https://web.dev/responsive-web-design-basics/)  
+**
+-https://www.youtube.com/watch?v=HJQLRDSWvtc&t=1s&pp=ygUMcXIgY29uIGFzdHJv
+
 
 ---
 
 ### 👩‍💻 Autor
 
-- **Nombre completo:**  
-- **Carrera:**  
+- **Nombre completo:Angelica Guadalupe Diaz Atilano
+- **Carrera:TICS
 - **Grupo:**  
-- **Correo institucional:**  
+- **Correo institucional: 23150345@aguascalientes.tecnm.mx
 
 ---
 
@@ -86,7 +81,7 @@ Incluye los enlaces, documentación o tutoriales que te ayudaron a completar est
 Comparte brevemente tu experiencia durante el desarrollo del proyecto.  
 Puedes responder a preguntas como:
 
-- ¿Qué fue lo más fácil o lo más difícil de realizar?  
-- ¿Qué parte disfrutaste más del desarrollo?  
-- ¿Qué conceptos nuevos aprendiste?  
-- ¿Cómo aplicarías lo aprendido en proyectos futuros?
+- ¿Qué fue lo más fácil o lo más difícil de realizar?  lo más dificil es solucionar los errores que me salen
+- ¿Qué parte disfrutaste más del desarrollo?  me gustó aprender un poco sobre codigo qr
+- ¿Qué conceptos nuevos aprendiste?  pues realmente hasta el astro y el tailwind son nuevos para mi, basicamente aprendí hasta como crear un proyecto
+- ¿Cómo aplicarías lo aprendido en proyectos futuros?pues primero sería adaptndo lo que ya tengo base a mis necesidades
